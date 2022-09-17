@@ -1,8 +1,6 @@
-![MasterHead](https://ual-media-res.cloudinary.com/image/fetch/c_fill,f_auto,g_auto,h_480,w_2000/https://www.arts.ac.uk/__data/assets/image/0014/30443/wimbledon-college-of-arts-ma-theatre-design-Vanya-Vaishanavi-Singh-3.jpg)
 <h1 align="center">Hi 👋, I'm Walb0r</h1>
 <h3 align="center">I am a hobby developer from Germany</h3>
-<img aligin="right" alt="Coding" with="400" src="https://www.careerguide.com/career/wp-content/uploads/2021/08/Full-Stack-Developer-1.gif>
-
+<img align="right" alt="Coding" width="400" src="https://thumbs.gfycat.com/TastyRepulsiveIndusriverdolphin-size_restricted.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=walb0r&label=Profile%20views&color=0e75b6&style=flat" alt="walb0r" /> </p>
 
 - 🔭 I’m currently working on **FiveM Projects**
